@@ -2,6 +2,8 @@
 
 ![Bug Bounty Blog Banner](https://camo.githubusercontent.com/cd20a203173553a0da7aa3965a5799906844025e50e737e8f8024190385ef966/68747470733a2f2f692e696d6775722e636f6d2f4a4f4e6f6875512e6769663f7261773d74727565)
 
+[![Visits Badge](https://badges.pufler.dev/visits/L0WK3Y-IAAN/Bug-Bounty-Hunting-Journey)](https://badges.pufler.dev)
+
 Welcome to the Bug Bounty Hunting Blog! This repository hosts the content and resources for the "Journey To Becoming A Bug Bounty Hunter w. L0WK3Y" blog. Here, you will find posts, guides, and tips related to bug bounty hunting and cybersecurity.
 
 ## Table of Contents
@@ -40,6 +42,3 @@ We welcome contributions from the community! If you have a topic you'd like to w
 4. Commit your changes: `git commit -am 'Add new post or improve documentation'`
 5. Push to the branch: `git push origin my-new-post`
 6. Create a new Pull Request.
-
-
----
