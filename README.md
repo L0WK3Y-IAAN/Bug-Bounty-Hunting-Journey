@@ -6,7 +6,7 @@ Welcome to the Bug Bounty Hunting Blog! This repository hosts the content and re
 
 ## Table of Contents
 
-- [🐛 Bug Bounty Hunting with L0WK3Y](#-bug-bounty-hunting-with-l0wk3y)
+- [🪲 Bug Bounty Hunting with L0WK3Y](#-bug-bounty-hunting-with-l0wk3y)
   - [Table of Contents](#table-of-contents)
   - [About](#about)
   - [Blog Posts](#blog-posts)
