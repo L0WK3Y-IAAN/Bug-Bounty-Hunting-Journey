@@ -1,4 +1,4 @@
-# 🐛 Bug Bounty Hunting with L0WK3Y
+# 🪲 Bug Bounty Hunting with L0WK3Y
 
 ![Bug Bounty Blog Banner](https://camo.githubusercontent.com/cd20a203173553a0da7aa3965a5799906844025e50e737e8f8024190385ef966/68747470733a2f2f692e696d6775722e636f6d2f4a4f4e6f6875512e6769663f7261773d74727565)
 
